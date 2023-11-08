@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "we-modbus"
+version = "0.1.0"
+description = ""
+authors = ["Leandro Luiz Guimarães Cavalheiro <ter_lgcavalheiro@maisaedu.com.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
